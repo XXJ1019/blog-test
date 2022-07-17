@@ -8,6 +8,8 @@
 * 学前端
 * 写毕设
 
+会的代码有`java` `python`
+
 ```
 console.log('hello')
 ```
